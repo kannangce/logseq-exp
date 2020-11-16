@@ -1,4 +1,5 @@
 #+TITLE: Nov 16th, 2020
 
-**** Point 1.1.1
-**** Point 1.1.2
+** Point 1
+***** Point 1.1.1
+**** Point 1.2
